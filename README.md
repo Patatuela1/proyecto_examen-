@@ -28,5 +28,8 @@ Requiere secrets:
 
 
 ## Informacion Grafica
-Para que de la informacion grafica se debera usar git show para mostrar todos los cambios que
-se han hecho al git cuando se termino de modificar la carpeta.
+```
+* 313ed10 (HEAD -> rama1_DiegoLopez) Informacion Grafica añadida
+* a64bc9f (origin/main, rama2_DiegoLopez, main) Primer commit en GitLab
+* ddf5b26 Primer commit
+```
