@@ -27,6 +27,17 @@ Requiere secrets:
 - DOCKERHUB_TOKEN
 
 
+
+
+
+
+
+
+## Informacion impresa
+--
+origin  https://github.com/Patatuela1/proyecto_examen-.git (fetch)
+origin  https://github.com/Patatuela1/proyecto_examen-.git (push)
+--
 ## Informacion Grafica
 ```
 * 313ed10 (HEAD -> rama1_DiegoLopez) Informacion Grafica añadida
