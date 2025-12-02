@@ -38,3 +38,9 @@ Requiere secrets:
 origin  https://github.com/Patatuela1/proyecto_examen-.git (fetch)
 origin  https://github.com/Patatuela1/proyecto_examen-.git (push)
 --
+## Informacion Grafica
+```
+* 313ed10 (HEAD -> rama1_DiegoLopez) Informacion Grafica añadida
+* a64bc9f (origin/main, rama2_DiegoLopez, main) Primer commit en GitLab
+* ddf5b26 Primer commit
+```
