@@ -25,3 +25,16 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+
+
+
+
+
+
+
+## Informacion impresa
+--
+origin  https://github.com/Patatuela1/proyecto_examen-.git (fetch)
+origin  https://github.com/Patatuela1/proyecto_examen-.git (push)
+--
