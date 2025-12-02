@@ -25,3 +25,8 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+
+## Informacion Grafica
+Para que de la informacion grafica se debera usar git show para mostrar todos los cambios que
+se han hecho al git cuando se termino de modificar la carpeta.
